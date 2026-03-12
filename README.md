@@ -13,3 +13,7 @@ In the REGISTER APPLICATION screen, choose sensible name, select Eikon API, clic
 
 Open Configuration/lseg-data.config.json file on you computer and replace "your_very_secret_app_key" with your API key.
 Replace "your_user_name" with your username and "your_very_secret_password" with your password. Do not forget to keep quotation marks.
+
+## Warning
+
+First time, you may need to restart your Jupyter IDE to make it work.
