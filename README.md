@@ -17,3 +17,19 @@ Replace "your_user_name" with your username and "your_very_secret_password" with
 ## Warning
 
 First time, you may need to restart your Jupyter IDE to make it work.
+
+# Git
+
+Git is an easy and reliable tool to preserve your work and to exchange your code. Git can be used standalone, but it is much easier to use it with a GUI.
+
+## Installing git
+
+Git can be downloaded from https://git-scm.com/install/. Choose OS that you use and follow the instructions.
+
+## Installing GUI -- Sourcetree
+
+There are quite a few GUI for git. Sourcetree is one of the simplest to start with. It can be installed from https://www.sourcetreeapp.com/.
+
+## Using Sourcetree
+
+
